@@ -1,7 +1,7 @@
-author: Monika Barget, built with <a href="https://teachbooks.io">TeachBooks</a>
+author: Dr. Monika Barget, built with <a href="https://teachbooks.io">TeachBooks</a>
 
 execute:
-  execute_notebooks: "off"
+  execute_notebooks: "on"
 
 html:
   use_multitoc_numbering: true
@@ -27,9 +27,9 @@ sphinx:
     html_theme_options:
 
       logo:
-        text: Distant Reading
-        image_light: logos/logo_light.svg
-        image_dark: logos/logo_dark.svg
+        text: Distant Reading in Media Studies
+        image_light: logos/logo_book_mok.png
+        image_dark: logos/logo_book_mok.png
 
       repository_url: "https://github.com/MonikaBarget/distant-reading-textbook"
       repository_branch: "main"
